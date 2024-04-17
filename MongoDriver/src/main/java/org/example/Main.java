@@ -23,5 +23,9 @@ public class Main {
                 System.out.println("No matching documents found.");
             }
         }
+
+//        Trial<String> t = new Trial<>();
+//        t.insert("nathan", "fan");
+//        System.out.println(t.returnValue("nathan"));
     }
 }
